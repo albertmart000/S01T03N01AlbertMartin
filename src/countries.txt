@@ -1,6 +1,6 @@
 Albania Tirana
 Andorra Andorra_la_Vella
-Armenia Ereván
+Armenia Erevan
 Austria Vienna
 Azerbaijan Baku
 Belarus Minsk
@@ -49,4 +49,3 @@ Turkey Ankara
 Ukraine Kyiv
 United_Kingdom London
 Vatican_City Vatican_City
-

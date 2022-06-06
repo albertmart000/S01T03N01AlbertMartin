@@ -1,25 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e532519-078f-487d-b13f-36f66da7a096" name="Changes" comment="" />
+    <list default="true" id="2e532519-078f-487d-b13f-36f66da7a096" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/S01T03N01Ex01AlbertMartin/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S01T03N01Ex01AlbertMartin/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/S01T03N01Ex01AlbertMartin/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S01T03N01Ex01AlbertMartin/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/S01T03N01Ex02AlbertMartin/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S01T03N01Ex02AlbertMartin/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/S01T03N01Ex03AlbertMartin/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S01T03N01Ex03AlbertMartin/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/S01T03N01Ex03AlbertMartin/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S01T03N01Ex03AlbertMartin/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/countries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/countries.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="29xoiEMxF4r0Jw8n848xNyHr42O" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/albert/Escritorio/IdeaProjects/S01T03N01AlbertMartin&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.S01T03N01Ex03AlbertMartin.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S01T03N01Ex01AlbertMartin.App" />
+      <module name="S01T03N01AlbertMartin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="S01T03N01Ex01AlbertMartin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S01T03N01Ex02AlbertMartin.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S01T03N01Ex02AlbertMartin.App" />
+      <module name="S01T03N01AlbertMartin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="S01T03N01Ex02AlbertMartin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S01T03N01Ex03AlbertMartin.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S01T03N01Ex03AlbertMartin.App" />
+      <module name="S01T03N01AlbertMartin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="S01T03N01Ex03AlbertMartin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.S01T03N01Ex03AlbertMartin.App" />
+        <item itemvalue="Application.S01T03N01Ex02AlbertMartin.App" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,7 +105,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654064229302</updated>
+      <workItem from="1654064230608" duration="15238000" />
+      <workItem from="1654091666344" duration="8228000" />
+      <workItem from="1654147037429" duration="2759000" />
+      <workItem from="1654178555156" duration="16903000" />
+      <workItem from="1654235141108" duration="27000" />
+      <workItem from="1654271079461" duration="207000" />
+      <workItem from="1654358021284" duration="5979000" />
+      <workItem from="1654411180360" duration="3196000" />
+      <workItem from="1654416939079" duration="134000" />
+      <workItem from="1654423924931" duration="1942000" />
+      <workItem from="1654447738640" duration="9093000" />
+      <workItem from="1654496917036" duration="2119000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
