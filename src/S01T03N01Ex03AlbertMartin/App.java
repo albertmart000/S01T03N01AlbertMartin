@@ -12,12 +12,12 @@ public class App {
     public static void main(String[] args) throws IOException {
 
         //Llegim el fitxer de text i guardem les dades en un HashMap. Des d'aquí fem una List amb el nom dels països.
-        //Creem l'usuari que farà el text.
+        //Creem l'usuari que farà el qüestionari.
         HashMap<String, String> countriesAndCapitals = buildCountriesAndCapitalsList();
         List<String> countries = buildCountriesList(countriesAndCapitals);
         user = createUser();
 
-        //Fem el text.
+        //Fem el qüestionari.
         System.out.println(user.getName() + ": Has de contestar en ANGLES a les següents "
                 + NUMBER_OF_QUESTIONS + " preguntes:");
         makeTheTest( countriesAndCapitals, countries);
@@ -28,7 +28,8 @@ public class App {
     }
 
 
-    //Per fer el text demanen 10 vegades la capital d'un pais tret de la llista de keys aleatòriament.
+    //Per fer el q
+    // Per fe el qüestionari demanen 10 vegades la capital d'un pais tret de la llista de keys aleatòriament.
     private static void makeTheTest(HashMap<String, String> countriesAndCapitals, List<String> countries) {
 
         for (int i = 1; i <= NUMBER_OF_QUESTIONS; i++) {
@@ -50,7 +51,7 @@ public class App {
         return sc.nextLine();
     }
 
-    //Si la resposta és correcta, afegim un punt a la puntuació de l'usuari. Traiem el pais de la llista perquè no es repeteixi.
+    //Si la resposta és correcta, afegim un punt a la puntuació de l'usuari. Traiem el pais de la llista per no repetir la pregunta..
     private static void checkTheAnswer(HashMap<String, String> countriesAndCapitals, String country, String answer) {
         String capital= countriesAndCapitals.get(country);
         if(capital.equalsIgnoreCase(answer)){
@@ -65,7 +66,7 @@ public class App {
 
     }
 
-    //Mostrem els resultats en pantalla,
+    //Mostrem els resultats en pantalla.
     private static void showResults() {
         System.out.println(user.getName()+": la teva puntuació final es: " +user.getScore() +".");
     }

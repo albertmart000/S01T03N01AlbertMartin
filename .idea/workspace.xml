@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e532519-078f-487d-b13f-36f66da7a096" name="Changes" comment="">
+    <list default="true" id="2e532519-078f-487d-b13f-36f66da7a096" name="Changes" comment="S01T03N01AlbertMartin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/S01T03N01Ex01AlbertMartin/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S01T03N01Ex01AlbertMartin/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/S01T03N01Ex01AlbertMartin/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S01T03N01Ex01AlbertMartin/Month.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/S01T03N01Ex02AlbertMartin/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S01T03N01Ex02AlbertMartin/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/S01T03N01Ex03AlbertMartin/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S01T03N01Ex03AlbertMartin/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/S01T03N01Ex03AlbertMartin/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S01T03N01Ex03AlbertMartin/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/countries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/countries.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +112,17 @@
       <workItem from="1654423924931" duration="1942000" />
       <workItem from="1654447738640" duration="9093000" />
       <workItem from="1654496917036" duration="2119000" />
+      <workItem from="1654499074109" duration="384000" />
+      <workItem from="1654529321981" duration="360000" />
     </task>
+    <task id="LOCAL-00001" summary="S01T03N01AlbertMartin">
+      <created>1654499362365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654499362365</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,5 +138,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="S01T03N01AlbertMartin" />
+    <option name="LAST_COMMIT_MESSAGE" value="S01T03N01AlbertMartin" />
   </component>
 </project>
